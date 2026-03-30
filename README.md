@@ -4,7 +4,7 @@ This repository provides MATLAB implementations of efficient and robust solvers 
 
 ## References
 
-1. Ryo Okuno, Russell T. Johns, and Kamy Sepehrnoori (2010).
+1. Okuno, Johns, and Sepehrnoori (2010).
    *A New Algorithm for Rachford–Rice for Multiphase Compositional Simulation.*
    SPE Journal, 15(02): 313–325.
    [https://doi.org/10.2118/117752-pa](https://doi.org/10.2118/117752-pa)
